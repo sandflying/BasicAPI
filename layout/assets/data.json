@@ -1,21 +1,21 @@
+
 [
     {
         "title":"แมว",
         "subtitle":"สัตว์เลี้ยงหรือปศุสัตว์",
-        "image_url":"https://github.com/sandflying/BasicAPI/blob/main/cat.jpg?raw=true",
+        "image_url":"https://raw.githubusercontent.com/sandflying/BasicAPI/main/cat.jpg",
         "detail":"แมว (ชื่อวิทยาศาสตร์: Felis catus) เป็นสัตว์เลี้ยงลูกด้วยนม อยู่ในตระกูล Felidae ต้นตระกูลมาจากเสือไซบีเรีย (Felis tigris altaica) ซึ่งมีช่วงลำตัวตั้งแต่จมูกถึงปลายหางยาวประมาณ 40 เซนติเมตร แมวที่เลี้ยงตามบ้าน จะมีรูปร่างขนาดเล็ก ขนาดลำตัวยาว ช่วงขาสั้นและจัดอยู่ในกลุ่มของประเภทสัตว์กินเนื้อ มีเขี้ยวและเล็บแหลมคมสามารถหดซ่อนเล็บได้เช่นเดียวกับเสือ สืบสายเลือดมาจากแมวป่าที่มีขนาดใหญ่กว่า ซึ่งลักษณะบางอย่างของแมวยังคงพบเห็นได้ในแมวบ้านปัจจุบัน"
     },
     {
         "title":"สุนัข",
         "subtitle":"สัตว์เลี้ยงหรือปศุสัตว์",
-        "image_url":"https://github.com/sandflying/BasicAPI/blob/main/dog.jpg?raw=true",
+        "image_url":"https://raw.githubusercontent.com/sandflying/BasicAPI/main/dog.jpg",
         "detail":"หมา หรือคำสุภาพว่า สุนัข (ชื่อวิทยาศาสตร์: Canis lupus familiaris หรือ Canis familiaris)[3] เป็นสัตว์มีเขี้ยวชนิดเชื่องทีถูกคัดเลือกผสมพันธุ์มาเป็นเวลาพันปีจนมีพฤติกรรม การรับรู้ทางประสาทสัมผัส และลักษณะทางกายภาพที่หลากหลาย["
     },
     {
         "title":"แมมมุม",
         "subtitle":"แมงมุม จัดเป็นสิ่งมีชีวิตพวกสัตว์ขาปล้อง หรืออาร์โธพอด",
-        "image_url":"https://github.com/sandflying/BasicAPI/blob/main/spider.jpg?raw=true",
+        "image_url":"https://raw.githubusercontent.com/sandflying/BasicAPI/main/spider.jpg",
         "detail":"แมงมุม จัดเป็นสิ่งมีชีวิตพวกสัตว์ขาปล้อง หรืออาร์โธพอด เช่น เดียวกับแมลง, กิ้งกือ, ปู เป็นต้น จัดอยู่ในอันดับ Araneae (/อา-รัค-เน/) มีรูปทรง ลักษณะ และขนาดแตกต่างหลากหลายกันออกไป บางชนิดมีลำตัวที่กว้างมาก บางชนิดมีรูปร่างที่เพรียวยาว ขณะที่บางชนิดกลับมีรูปร่างที่คล้ายกับสัตว์หรือสิ่งมีชีวิตประเภทอื่น เช่น มด หรือปู เพื่อใช้ในการพรางตัว"
     }
 ]
-
